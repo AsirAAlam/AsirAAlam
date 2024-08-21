@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I'm Asir Abrar Alam 🤠
+- 🔭 I’m currently working on a Computer Science MS at the University of Central Florida
+- 👨‍💻 I am an aspiring software engineer.
+- 📫 How to reach me:
+  - Email: alvi.abrar29@gmail.com
+  - Discord: asir.a
 
 <!--
 **AsirAAlam/AsirAAlam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
