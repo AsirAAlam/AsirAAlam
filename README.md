@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Asir Abrar Alam 🤠
+## Hi there 👋, I'm Asir Alam 🤠
 - 🔭 I’m currently working on a Computer Science MS at the University of Central Florida
 - 👨‍💻 I am an aspiring software engineer.
 - 📫 How to reach me:
