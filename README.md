@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Asir Alam 🤠
 - 🔭 I’m currently working on a Computer Science MS at the University of Central Florida
-- 👨‍💻 I am an aspiring software engineer.
+- 👨‍💻 Incoming SWE @ Meta
 - 📫 How to reach me:
   - Email: alvi.abrar29@gmail.com
   - Discord: asir.a
