@@ -1,5 +1,5 @@
-## Hi there 👋, I'm Asir Alam 🤠
-- 🔭 I’m currently working on a Computer Science MS at the University of Central Florida
+## Hi there, I'm Asir Alam 👋
+- 🔭 Computer Science MS student at the University of Central Florida
 - 👨‍💻 Incoming SWE @ Meta
 - 📫 How to reach me:
   - Email: alvi.abrar29@gmail.com
