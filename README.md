@@ -1,6 +1,6 @@
 ## Hi there, I'm Asir Alam 👋
-- 🔭 Computer Science MS student at the University of Central Florida
-- 👨‍💻 Incoming SWE @ Meta
+- 👨‍💻 SWE @ Meta
+- 🔭 UCF Computer Science BS '24 MS '25
 - 📫 How to reach me:
   - Email: alvi.abrar29@gmail.com
   - Discord: asir.a
